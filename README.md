@@ -12,8 +12,8 @@ Hi, I'm Akul Loomba, a Software Engineer in Atlanta, GA! Currently, I'm a junior
 
 **About Me:**
 
-- 💻 I’m currently working on a Python Virtual Assistant that is similar to Siri or Cortana
-- ☕ I’m currently learning Computer Networking and Machine Learning
+- 💻 I’m currently taking classes and interning at Verizon as a Network Engineer and Chick-Fil-A Corporate as a Software Engineer
+- ☕ I’m currently learning Machine Learnin
 - 🤼‍♂️ I’m looking to collaborate on personal projects
 - 😄 Pronouns: He/Him/His
 - 📫 Send me a love letter (and/or general inquiries): aloomba3@gatech.edu
