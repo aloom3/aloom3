@@ -20,7 +20,7 @@ Hi, I'm Akul Loomba, a Software Engineer in Atlanta, GA! Currently, I'm a junior
 
 Go check out my [resume](https://drive.google.com/file/d/1zoJ1LzDmNM0UN7yADvDzLPRcfavD6-k0/view?usp=sharing).
 
-Connect with me on [linkedin](https://www.linkedin.com/in/akulloomba
+Connect with me on [linkedin](https://www.linkedin.com/in/akulloomba).
 
 **Languages and Tools:**  
 Python, C, Java, React.js, Next.js, TypeScript, JavaScript, Visual Studio
