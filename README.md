@@ -13,12 +13,14 @@ Hi, I'm Akul Loomba, a Software Engineer in Atlanta, GA! Currently, I'm a junior
 **About Me:**
 
 - 💻 I’m currently taking classes and interning at Verizon as a Network Engineer and Chick-Fil-A Corporate as a Software Engineer
-- ☕ I’m currently learning Machine Learnin
+- ☕ I’m currently learning Machine Learning
 - 🤼‍♂️ I’m looking to collaborate on personal projects
 - 😄 Pronouns: He/Him/His
 - 📫 Send me a love letter (and/or general inquiries): aloomba3@gatech.edu
 
 Go check out my [resume](https://drive.google.com/file/d/1zoJ1LzDmNM0UN7yADvDzLPRcfavD6-k0/view?usp=sharing).
+
+Connect with me on [linkedin](https://www.linkedin.com/in/akulloomba
 
 **Languages and Tools:**  
 Python, C, Java, React.js, Next.js, TypeScript, JavaScript, Visual Studio
