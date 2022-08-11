@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Akul Loomba, a Product Manager and Software Engineer in Atlanta, GA! Currently, I'm a senior at [Georgia Tech](https://gatech.edu) majoring in Computer Science with concentrations in Intelligence and Info-Internetworks. 
+Hi, I'm Akul Loomba, a Product Manager and Software Engineer from Atlanta, GA! Currently, I'm a senior at [Georgia Tech](https://gatech.edu) majoring in Computer Science with concentrations in Intelligence and Info-Internetworks. 
 
 I am interested in all things regarding product design, development, and the strategy that goes into creating and releasing a successful project.
 
