@@ -7,9 +7,11 @@
 <br />
 <br />
 
-Hi, I'm Akul Loomba, a Product Manager and Software Engineer in Atlanta, GA! Currently, I'm a third-year at [Georgia Tech](https://gatech.edu) majoring in Computer Science with concentrations in Intelligence and Info-Internetworks. 
+Hi, I'm Akul Loomba, a Product Manager and Software Engineer in Atlanta, GA! Currently, I'm a senior at [Georgia Tech](https://gatech.edu) majoring in Computer Science with concentrations in Intelligence and Info-Internetworks. 
 
-I am interested in all things regarding product design, development, and the strategy that goes into creating and releasing a successful project. 
+I am interested in all things regarding product design, development, and the strategy that goes into creating and releasing a successful project.
+
+I recently just finished an internship at Microsoft in the Identity and Network Access Division under SCIM (Security, Compliance, and Identity Mangement)/ Microsoft Security. Reach out if you want to talk about PM or anything cybersecurity! 
 
 
 **About Me:**
