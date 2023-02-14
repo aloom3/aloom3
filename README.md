@@ -15,7 +15,7 @@ Hi, I'm Akul Loomba, a Product Manager and Software Engineer from Atlanta, GA! I
 - 😄 Pronouns: He/Him/His
 - 📫 Send me a love letter (and/or general inquiries): aloomba3@gatech.edu
 
-Go check out my [resume](https://drive.google.com/file/d/1zoJ1LzDmNM0UN7yADvDzLPRcfavD6-k0/view?usp=sharing).
+Go check out my [resume](https://drive.google.com/file/d/12y3paX1qIwzbZ2DA7VQCPkaDdvkx-Cr6/view?usp=sharing).
 
 **Languages and Tools:**  
 Product Management, Agile Methodologies, Leadership, Python, Java, React.js, JavaScript
